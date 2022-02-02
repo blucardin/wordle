@@ -1,3 +1,3 @@
-# wordle
+# Wordle
 
 Wordle Brute Force!
