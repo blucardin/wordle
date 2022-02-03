@@ -1,4 +1,4 @@
-# Wordle
+# Preface
 
 I wrote an article about cheating wordle. This is the code I used to generate some of the statistics in said article, and assist with solcing wordle. 
 
