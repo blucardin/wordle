@@ -18,8 +18,8 @@ But why play when you can cheat? None of your friends will ever know and being a
 Before one can learn to cheat wordle, they must understand it. To guess the correct word, not only involves luck, but decision making. Each guess that is not the correct one, gives you at least information about what letters are not in the word, and at most tells you which letters are in the word, and their places. From this, one technique for brute forcing the game becomes apparent: choose three words with completely different letters, then from the information you get, come up with the final word. 
 
 For example, one might use the words: 
-**
-Panic  
+
+**Panic  
 Doubt  
 Shrew**  
 
@@ -27,7 +27,7 @@ But we can get even better. If we use the most used letters to construct these w
 
 **Tenia  
 Chord  
-Fugly ** 
+Fugly**  
 
 With a little more work, we can have even better words. Instead of using the most probable letters in the entire English language, we can focus on the letters that are most probable in 5 letter words. However, there is no place on the internet that clearly states this, so we must do some digging ourselves. 
 
@@ -66,8 +66,8 @@ Using these updated percentages, we get the words:
 
 **Rates  
 colin  
-Pudgy  **
-(and if you really need one more)** whomp  **
+Pudgy**  
+(and if you really need one more) **whomp**  
 
 Now, this seems like the end of the story. How can one guess the wordle better? By cheating even more! Using a scrabble word finder with advanced features, (found here https://scrabblecheat.com/scrabble-cheat-center.aspx) anyone with enough means can easily find the correct word. All you need to do is search for words with 5 letters using the letters you have, then filter the results for the letters you don’t have. If you want more control over your searches, you could try using a regex searchable dictionary, https://visca.com/regexdict/.
 
