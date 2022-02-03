@@ -3,7 +3,7 @@
 I wrote an article about cheating wordle. This is the code I used to generate some of the statistics in said article, and assist with solcing wordle. 
 
 
-#Wordle: What It Is, and How to Cheat 
+# Wordle: What It Is, and How to Cheat 
 
 Word games are not old, but there is a new one that has been taking the internet by storm: WORDLE! A web-based interactive game made by Josh Wardle that was recently bought by the New York Times for seven-figures. You can play the game here: https://www.powerlanguage.co.uk/wordle/. 
 
