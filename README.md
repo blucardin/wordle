@@ -1,6 +1,6 @@
 # Preface
 
-I wrote an article about cheating wordle. This is the code I used to generate some of the statistics in said article, and assist with solcing wordle. 
+I wrote an article about cheating wordle. This is the code I used to generate some of the statistics in said article, and assist with solving wordle. 
 
 
 # Wordle: What It Is, and How to Cheat 
@@ -93,8 +93,6 @@ https://englishlive.ef.com/blog/language-lab/many-words-english-language/
 https://www.sttmedia.com/characterfrequency-english 
 
 https://scrabblecheat.com/scrabble-cheat-center.aspx
-
-https://twitter.com/cairn4/status/1488894756906274823 
 
 https://www.powerlanguage.co.uk/wordle/  
 
