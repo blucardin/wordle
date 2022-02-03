@@ -71,6 +71,10 @@ Pudgy
 
 Now, this seems like the end of the story. How can one guess the wordle better? By cheating even more! Using a scrabble word finder with advanced features, (found here https://scrabblecheat.com/scrabble-cheat-center.aspx) anyone with enough means can easily find the correct word. All you need to do is search for words with 5 letters using the letters you have, then filter the results for the letters you don’t have. If you want more control over your searches, you could try using a regex searchable dictionary, https://visca.com/regexdict/.
 
+![image](https://user-images.githubusercontent.com/55935207/152283982-8128e322-7278-4902-81a6-6fbf321cd99a.png)
+![image](https://user-images.githubusercontent.com/55935207/152283996-1e060dda-5b2a-41d5-974f-2dfcb150153e.png)
+![image](https://user-images.githubusercontent.com/55935207/152284002-b721450e-f9bc-4023-9689-b7e03f7e6bb7.png)
+
    
 As you can see, in these instances, all uses of rates, colin, etc. resulted in immediate yellows. 
 
